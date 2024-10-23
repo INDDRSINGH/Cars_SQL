@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Tha dataset contains data of cars and its various attributes.
+Tha dataset contains data of cars and its various attributes from pollution and milage perspective.
+
+SQL_Queries.md file contains the analysis of dataset.
 
 ## Database
   * MySQL
